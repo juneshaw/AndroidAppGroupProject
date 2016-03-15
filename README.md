@@ -32,3 +32,11 @@ Basic web front end for admin database maintenance
 * Mongoose
 * AWS (storage)
 * Heroku (deploy)
+
+### Heroku Deploy:
+
+### Frontend Repo:
+* mmmorrison/AndroidAppGroupProject-FE
+
+### Backend Repo:
+* mmmorrison/AndroidAppGroupProject
